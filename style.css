@@ -1,0 +1,29 @@
+
+
+body{
+
+  text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+    background-image: url("OIP.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
+
+
+#btn{
+  background-color: transparent;
+  height: 30px;
+  width: 50px;
+}
+
+.cft{
+  height: 250px;
+  width: 360px;
+  border-width: 2px;
+  border-style: dotted;
+  margin-left: 60px;
+}
